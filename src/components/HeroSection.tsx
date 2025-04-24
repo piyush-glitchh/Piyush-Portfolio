@@ -20,7 +20,7 @@ const HeroSection = () => {
             <p 
               className={`text-cyan-400 font-medium mb-2 ${loaded ? 'animate-fadeUp' : 'opacity-0'}`}
             >
-              Hi there, I'm
+              Hello there, I'm
             </p>
             <h1 
               className={`text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 ${loaded ? 'animate-fadeUp delay-100' : 'opacity-0'}`}
