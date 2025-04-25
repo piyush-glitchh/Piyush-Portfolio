@@ -54,13 +54,13 @@ const AboutSection = () => {
           <div>
             <h3 className="text-2xl font-bold text-white mb-4 reveal">Piyush Priyabrata Mishra</h3>
             <p className="text-gray-300 mb-6 reveal">
-              I'm a passionate full-stack developer with expertise in creating responsive and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I enjoy solving complex problems and turning ideas into reality.
+            I'm a passionate software developer with a focus on Java programming and data structures & algorithms. With a solid foundation in computer science principles, I enjoy solving complex problems and building efficient, scalable applications.
             </p>
             <p className="text-gray-300 mb-6 reveal">
-              My journey in programming started with Java and data structures, and I've since expanded my skills to include modern web technologies. I'm constantly learning and adapting to new tools and frameworks to deliver the best solutions.
+            My journey in software development started during my undergraduate studies, where I developed a keen interest in algorithmic thinking and software architecture. Since then, I've been continuously expanding my knowledge and skills through personal projects and professional experiences.
             </p>
             <p className="text-gray-300 reveal">
-              When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enhancing my problem-solving skills through competitive programming.
+            When I'm not coding, you can see me exploring new technologies, playing the piano, cycling to discover new places, and teaching others what I'm good at.
             </p>
           </div>
         </div>

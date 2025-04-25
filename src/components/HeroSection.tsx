@@ -25,17 +25,17 @@ const HeroSection = () => {
             <h1 
               className={`text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 ${loaded ? 'animate-fadeUp delay-100' : 'opacity-0'}`}
             >
-              Piyush
+              Piyush Priyabrata Mishra
             </h1>
             <h2 
               className={`text-2xl md:text-3xl lg:text-4xl font-semibold text-gray-300 mb-6 ${loaded ? 'animate-fadeUp delay-200' : 'opacity-0'}`}
             >
-              A passionate full-stack developer.
+              A passionate software engineer and web developer.
             </h2>
             <p 
               className={`text-gray-300 max-w-lg mb-8 ${loaded ? 'animate-fadeUp delay-300' : 'opacity-0'}`}
             >
-              I craft responsive websites and web applications that provide intuitive user experiences. Let's build something amazing together.
+              A Software Engineering student & Web Developer in the making. Learning to build responsive web apps with React, Java, and Spring Boot.
             </p>
             <div className={`${loaded ? 'animate-fadeUp delay-400' : 'opacity-0'}`}>
               <button 
